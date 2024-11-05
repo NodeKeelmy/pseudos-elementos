@@ -1,0 +1,6 @@
+p::first-letter {
+  font-size: 2rem;
+}
+p::first-line {
+  font-weight: bold;
+}
